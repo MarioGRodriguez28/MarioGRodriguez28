@@ -120,10 +120,5 @@
 
 ## CONTACT
 
-<div style="text-align: center;">
-  <ul style="list-style: none; padding: 0;">
-    <li><a href="https://mariogrodriguez.com/">Email.</a></li>
-    <li><a href="https://mariogrodriguez.com/">LinkedIn.</a></li>
-    <li><a href="https://mariogrodriguez.com/">WhatsApp.</a></li>
-  </ul>
-</div>
+- [Email](https://mariogrodriguez.com/)
+- [LinkedIn](https://www.linkedin.com/in/mariogrm/)
