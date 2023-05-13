@@ -123,7 +123,11 @@
 
 ## CONTACT
 
-📧[Email.](https://mariogrodriguez.com/) [LinkedIn.](https://mariogrodriguez.com/) [WhatsApp.](https://mariogrodriguez.com/)
+<div align="center">
+[Email.](https://mariogrodriguez.com/) [LinkedIn.](https://mariogrodriguez.com/) [WhatsApp.](https://mariogrodriguez.com/)
+</div>
+
+
 
 ### Markdown
 
