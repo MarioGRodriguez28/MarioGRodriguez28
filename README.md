@@ -1,5 +1,6 @@
-# Mario Rodriguez
-![image](https://github.com/MarioGRodriguez28/MarioGRodriguez28/assets/7551584/100635e8-61a3-4652-a4b5-ed31255a0246)
+<div align="center">
+<h1 align="center">Hi, I'm Mario Rodriguez</a></h1>
+</div>![image](https://github.com/MarioGRodriguez28/MarioGRodriguez28/assets/7551584/100635e8-61a3-4652-a4b5-ed31255a0246)
 
 ## ABOUT
 
