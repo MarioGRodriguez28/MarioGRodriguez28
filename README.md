@@ -11,7 +11,6 @@
 
 ## SKILLS
 
-
 <div align="center" >
   <p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -100,14 +99,12 @@
   </p>
 </div>
 
-
 ## PROJECTS
 
 1. [Portafolio.](http://mariogrodriguez.com/) [Repositorio.](https://github.com/MarioGRodriguez28/portafolio)
 2. [Champ Car World Series.](https://leafy-heliotrope-8df481.netlify.app/) [Repositorio.](https://github.com/MarioGRodriguez28/champ-car-world-series)
 3. [JAM Session.](https://jam-app.cyclic.app/) [Repositorio.](https://github.com/MarioGRodriguez28/jam-app)
 4. [Splitrip.](https://splitrip.netlify.app/). [Repositorio.](https://github.com/MarioGRodriguez28/splitrip-app-client)
-
 
 ## CERTIFICATED
 
@@ -130,15 +127,3 @@
     <li><a href="https://mariogrodriguez.com/">WhatsApp.</a></li>
   </ul>
 </div>
-
-
-
-
-### Markdown
-
-El archivo README.md utiliza la sintaxis de Markdown. A continuación, se incluyen algunos ejemplos de cómo puedes aplicar esta sintaxis en tu archivo README.md:
-
-#### Encabezados
-
-Los encabezados se crean utilizando el símbolo `#`. Cuantos más símbolos, más pequeño será el encabezado. Por ejemplo:
-
