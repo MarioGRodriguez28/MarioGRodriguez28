@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Mario Rodriguez</a></h1>
 </div>
-![image](https://res.cloudinary.com/dsevu38bc/image/upload/v1683973655/Screenshot_2023-05-13_122524_cr9zmj.png)
+<img src="https://res.cloudinary.com/dsevu38bc/image/upload/v1683973655/Screenshot_2023-05-13_122524_cr9zmj.png">
 
 ## ABOUT
 
